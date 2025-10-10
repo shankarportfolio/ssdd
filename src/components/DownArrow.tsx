@@ -23,7 +23,7 @@ export const DownArrow = () => {
     return (
         <div className="inline-block absolute top-[50%] left-[50%] translate-x-[-50%] translate-y-[215px]">
         <h5 className={`${ubuntu.className} text-[14px] leading-[24px] text-[#0a1931] m-[0] mb-[25px] text-center`}>
-            Let's get to know each other
+            Let&apos;s get to know each other
         </h5>
         <div
             data-target="#services"
